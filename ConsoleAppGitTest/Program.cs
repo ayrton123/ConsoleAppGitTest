@@ -8,6 +8,8 @@ namespace ConsoleAppGitTest
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Good morning");
+            Console.WriteLine("Good afternoon");
+
         }
     }
 }
